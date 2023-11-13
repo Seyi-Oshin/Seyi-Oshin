@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seyi Oshin
-- 👀 I’m interested in Data scinece and machine learning
-- 🌱 I understand Python Basics for Data Science
+- 👀 I’m interested in  Data scinece and Quantum machine learning
+- 🌱 I have a good understanding Python Basics for Data Science
 - 💞️ I’m looking to collaborate on beginner projects that can help me improve my skills
 - 📫 How to reach me: oluwaseyioshin@gmail.com
 
